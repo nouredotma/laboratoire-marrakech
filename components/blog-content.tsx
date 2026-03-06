@@ -15,8 +15,7 @@ const blogPosts = [
     author: "Dev.dgx",
     date: "30 décembre 2024",
     categories: ["Laboratoire", "Marrakech", "Santé"],
-    image:
-      "https://laboratoire-analyses-marrakech.com/wp-content/uploads/2024/01/416069542_384350250766388_5780925185195459728_n.jpg",
+    image: "/images/marrakech-lab-guide.png",
     slug: "guide-laboratoires-medicaux-marrakech",
   },
   {

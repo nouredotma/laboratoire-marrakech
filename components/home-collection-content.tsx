@@ -104,7 +104,7 @@ export default function HomeCollectionContent() {
               <div className="w-full md:w-2/5 flex items-center justify-center">
                 <div className="relative w-full rounded-lg overflow-hidden shadow-md">
                   <Image
-                    src="https://laboratoire-analyses-marrakech.com/wp-content/uploads/2024/01/416069542_384350250766388_5780925185195459728_n.jpg"
+                    src="/images/home-blood-collection.png"
                     alt="Prélèvement à domicile"
                     width={600}
                     height={800}

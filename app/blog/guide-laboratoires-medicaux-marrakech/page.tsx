@@ -8,7 +8,7 @@ export default function GuideLaboratoiresMedicauxMarrakechPage() {
       date="30 décembre 2024"
       author="Dev.dgx"
       categories={["Blog", "Meilleur Laboratoire à Marrakech"]}
-      image="https://laboratoire-analyses-marrakech.com/wp-content/uploads/2024/01/416069542_384350250766388_5780925185195459728_n.jpg"
+      image="/images/marrakech-lab-guide.png"
       content={
         <div>
           <p className="mb-4 text-sm sm:text-base text-gray-700">
