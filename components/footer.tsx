@@ -125,13 +125,13 @@ export default function Footer() {
           <div className="text-xs sm:text-sm mb-4 md:mb-0 backdrop-blur-sm bg-black/10 px-3 sm:px-4 py-1.5 sm:py-2 rounded-full text-center w-full md:w-auto">
             Copyright © 2024. Designed and Developed by{" "}
             <a
-              href="https://ouz.ma"
+              href="https://noure.ma"
               target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-300 relative inline-block group"
             >
               <span className="relative">
-                Ouz.ma
+                noure.ma
                 <span className="absolute left-0 bottom-0 w-0 h-0.5 bg-yellow-300 group-hover:w-full transition-all duration-300"></span>
               </span>
             </a>

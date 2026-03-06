@@ -6,7 +6,7 @@ import TypingText from "./typing-text"
 export default function HeroSection() {
   return (
     <section className="relative flex flex-col">
-      <div className="container mx-auto px-4 min-h-[calc(100vh-60px)] flex flex-col justify-center pt-16 pb-0">
+      <div className="container mx-auto px-4 min-h-[100svh] flex flex-col justify-center pt-16 pb-0">
         <div className="text-white">
           {/* Hero content with max-width */}
           <div className="max-w-3xl">
